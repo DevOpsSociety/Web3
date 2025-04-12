@@ -1,2 +1,4 @@
 # Web3
-3조 웹 
+
+이솔 : https://github.com/Bandiyesol/Python
+혜연 : https://github.com/hyaeyeon/Python
